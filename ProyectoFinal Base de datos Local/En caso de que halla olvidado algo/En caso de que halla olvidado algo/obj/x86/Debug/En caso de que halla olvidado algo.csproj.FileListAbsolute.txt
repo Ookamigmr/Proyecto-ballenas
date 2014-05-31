@@ -1,0 +1,7 @@
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\bin\Debug\En caso de que halla olvidado algo.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\bin\Debug\En caso de que halla olvidado algo.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\obj\x86\Debug\asd.Form1.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\obj\x86\Debug\asd.Properties.Resources.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\obj\x86\Debug\En caso de que halla olvidado algo.csproj.GenerateResource.Cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\obj\x86\Debug\En caso de que halla olvidado algo.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\En caso de que halla olvidado algo\En caso de que halla olvidado algo\obj\x86\Debug\En caso de que halla olvidado algo.pdb

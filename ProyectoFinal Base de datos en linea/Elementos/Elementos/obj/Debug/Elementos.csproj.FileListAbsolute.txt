@@ -1,0 +1,9 @@
+C:\Users\alma\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\alma\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\alma\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\alma\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\alma\Desktop\ProyectoFinal\Elementos\Elementos\bin\Debug\Elementos.dll
+C:\Users\alma\Desktop\ProyectoFinal\Elementos\Elementos\bin\Debug\Elementos.pdb
+C:\Users\alma\Desktop\ProyectoFinal\Elementos\Elementos\obj\Debug\Elementos.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal\Elementos\Elementos\obj\Debug\Elementos.dll
+C:\Users\alma\Desktop\ProyectoFinal\Elementos\Elementos\obj\Debug\Elementos.pdb

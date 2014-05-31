@@ -1,0 +1,4 @@
+C:\Users\alma\AppData\Local\Temporary Projects\Conexión\bin\Debug\Conexión.dll
+C:\Users\alma\AppData\Local\Temporary Projects\Conexión\bin\Debug\Conexión.pdb
+C:\Users\alma\AppData\Local\Temporary Projects\Conexión\obj\Debug\Conexión.dll
+C:\Users\alma\AppData\Local\Temporary Projects\Conexión\obj\Debug\Conexión.pdb

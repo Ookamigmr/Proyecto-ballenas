@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using ConexiónSQL;
+
+namespace Grupos
+{
+    public class Acciones
+    {
+        public void AgregarCombobox(DataTable dt, ComboBox cb, string Columna)
+        {
+            foreach (DataRow r in dt.Rows)
+            {
+                cb.Items.Add(r[Columna].ToString());
+
+            }
+        }
+        public void AgregarListbox(DataTable dt, ListBox cb, List<string> Columna)
+        {
+            foreach (DataRow r in dt.Rows)
+            {
+                string Agregar="";
+                for (int i=0;i<Columna.Count;i++)
+                    Agregar= Agregar + (r[Columna[i]].ToString()) + "\t";
+                cb.Items.Add(Agregar);
+            }
+        }
+        public void AgregarValor(string valor, TextBox txt)
+        {
+            txt.Text = valor;
+        }
+        public void LlenarCon(DataTable dt, ref Dictionary<int, string> dic, string campo)
+        {
+            foreach (DataRow r in dt.Rows)
+            {
+                dic.Add(Convert.ToInt16(r["ID"]), campo);
+
+            }
+        }
+    }
+}

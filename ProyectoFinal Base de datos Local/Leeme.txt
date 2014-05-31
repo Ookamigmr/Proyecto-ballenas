@@ -1,0 +1,10 @@
+Al ingresar la base de datos a su SQL, deberá cambiar la ruta.
+En el proyecto ConexionSQL, la clase ParaConectar, cambie la ruta 
+
+Data Source = ALMA-PC\SQLEXPRESS
+
+
+por 
+
+
+Data Source = -NOMBRE DE SU PC-  \SQLEXPRESS

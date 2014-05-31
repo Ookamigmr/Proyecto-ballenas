@@ -1,0 +1,15 @@
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\bin\Release\AgregarUsuarios.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\bin\Release\AgregarUsuarios.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\bin\Release\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\bin\Release\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.DatosInvestigación.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.DatosInvestigador.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.Usuarios_Encontrados.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.Form1.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.Buscar_usuario.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.Modificar_Usuario.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.NuevoUsuario.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.Properties.Resources.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.csproj.GenerateResource.Cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarUsuarios\AgregarUsuarios\obj\x86\Release\AgregarUsuarios.pdb

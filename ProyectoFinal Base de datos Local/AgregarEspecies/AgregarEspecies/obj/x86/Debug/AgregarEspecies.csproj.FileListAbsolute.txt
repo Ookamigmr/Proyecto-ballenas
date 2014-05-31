@@ -1,0 +1,35 @@
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.csprojResolveAssemblyReference.cache
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.AgregarEspecie.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.frm_Especies.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.Properties.Resources.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.csproj.GenerateResource.Cache
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\AgregarEspecies.exe
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\AgregarEspecies.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.exe
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.exe
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\AgregarEspecies.exe
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\AgregarEspecies.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.AgregarEspecie.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.frm_Especies.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.Properties.Resources.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.csproj.GenerateResource.Cache
+C:\Users\alma\Desktop\ProyectoFinal\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.Modificar1.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\bin\Debug\AgregarEspecies.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\bin\Debug\AgregarEspecies.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\bin\Debug\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\bin\Debug\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.csprojResolveAssemblyReference.cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.AgregarEspecie.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.frm_Especies.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.Modificar1.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.Properties.Resources.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.csproj.GenerateResource.Cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarEspecies\AgregarEspecies\obj\x86\Debug\AgregarEspecies.pdb

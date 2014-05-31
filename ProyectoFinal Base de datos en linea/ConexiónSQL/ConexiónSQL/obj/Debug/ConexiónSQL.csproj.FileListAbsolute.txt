@@ -1,0 +1,15 @@
+C:\Users\alma\Google Drive\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
+C:\Users\alma\Google Drive\ProyectoFinal\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Google Drive\ProyectoFinal\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
+C:\Users\alma\Google Drive\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb

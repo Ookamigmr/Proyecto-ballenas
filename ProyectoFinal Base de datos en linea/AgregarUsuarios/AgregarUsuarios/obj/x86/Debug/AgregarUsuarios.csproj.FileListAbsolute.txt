@@ -1,0 +1,32 @@
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.DatosInvestigación.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.DatosInvestigador.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Form1.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.NuevoUsuario.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Properties.Resources.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.csproj.GenerateResource.Cache
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\AgregarUsuarios.exe
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\AgregarUsuarios.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.exe
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Buscar_usuario.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Modificar_Usuario.resources
+C:\Users\alma\Google Drive\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Usuarios_Encontrados.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.exe
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\AgregarUsuarios.exe
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\AgregarUsuarios.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.DatosInvestigación.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.DatosInvestigador.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Usuarios_Encontrados.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Form1.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Buscar_usuario.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Modificar_Usuario.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.NuevoUsuario.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.Properties.Resources.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarUsuarios\AgregarUsuarios\obj\x86\Debug\AgregarUsuarios.csproj.GenerateResource.Cache

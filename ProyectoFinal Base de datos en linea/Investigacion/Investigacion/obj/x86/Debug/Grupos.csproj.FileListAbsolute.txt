@@ -1,0 +1,7 @@
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\bin\Debug\Grupos.exe
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\bin\Debug\Grupos.pdb
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\obj\x86\Debug\Grupos.Form1.resources
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\obj\x86\Debug\Grupos.Properties.Resources.resources
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\obj\x86\Debug\Grupos.csproj.GenerateResource.Cache
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\obj\x86\Debug\Grupos.exe
+C:\Users\alma\AppData\Local\Temporary Projects\Grupos\obj\x86\Debug\Grupos.pdb

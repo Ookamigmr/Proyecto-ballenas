@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{419FDD6B-25D2-43CB-B974-A7C4E78F0AF8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Grupos</RootNamespace>
+    <AssemblyName>Investigacion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ConexiónSQL">
+      <HintPath>..\..\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acciones.cs" />
+    <Compile Include="Agregar Ballena.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Agregar Ballena.Designer.cs">
+      <DependentUpon>Agregar Ballena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarPoblaciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AgregarPoblaciones.Designer.cs">
+      <DependentUpon>AgregarPoblaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BallenasDePoblacione.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BallenasDePoblacione.Designer.cs">
+      <DependentUpon>BallenasDePoblacione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delegados.cs" />
+    <Compile Include="ExaminarPoblación.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExaminarPoblación.Designer.cs">
+      <DependentUpon>ExaminarPoblación.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfacecita.cs" />
+    <Compile Include="Poblaciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Poblaciones.Designer.cs">
+      <DependentUpon>Poblaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrinciparInvestigador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrinciparInvestigador.Designer.cs">
+      <DependentUpon>PrinciparInvestigador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Agregar Ballena.resx">
+      <DependentUpon>Agregar Ballena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarPoblaciones.resx">
+      <DependentUpon>AgregarPoblaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BallenasDePoblacione.resx">
+      <DependentUpon>BallenasDePoblacione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExaminarPoblación.resx">
+      <DependentUpon>ExaminarPoblación.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poblaciones.resx">
+      <DependentUpon>Poblaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrinciparInvestigador.resx">
+      <DependentUpon>PrinciparInvestigador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 belugaas hermosas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ballena.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

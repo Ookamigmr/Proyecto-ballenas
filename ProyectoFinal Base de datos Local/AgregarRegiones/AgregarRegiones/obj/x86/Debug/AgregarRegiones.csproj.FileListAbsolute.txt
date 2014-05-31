@@ -1,0 +1,24 @@
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.AgregarRegion.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.ModificarRegion.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.Regiones.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.Properties.Resources.resources
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.csproj.GenerateResource.Cache
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\bin\Debug\AgregarRegiones.exe
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\bin\Debug\AgregarRegiones.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.exe
+C:\Users\alma\Desktop\ProyectoFinal\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\bin\Debug\AgregarRegiones.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\bin\Debug\AgregarRegiones.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\bin\Debug\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\bin\Debug\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.csprojResolveAssemblyReference.cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.AgregarRegion.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.ModificarRegion.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.Regiones.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.Properties.Resources.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.csproj.GenerateResource.Cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\AgregarRegiones\AgregarRegiones\obj\x86\Debug\AgregarRegiones.pdb

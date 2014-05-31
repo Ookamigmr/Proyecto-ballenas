@@ -1,0 +1,4 @@
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Elementos\Elementos\bin\Release\Elementos.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Elementos\Elementos\bin\Release\Elementos.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Elementos\Elementos\obj\Release\Elementos.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Elementos\Elementos\obj\Release\Elementos.pdb

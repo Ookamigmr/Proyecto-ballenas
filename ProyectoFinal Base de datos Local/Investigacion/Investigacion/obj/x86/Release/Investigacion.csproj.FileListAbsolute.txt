@@ -1,0 +1,14 @@
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\bin\Release\Investigacion.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\bin\Release\Investigacion.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\bin\Release\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\bin\Release\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.Agregar_Ballena.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.AgregarPoblaciones.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.BallenasDePoblacione.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.ExaminarPoblación.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.Poblaciones.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.frm_Investigación.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Grupos.Properties.Resources.resources
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Investigacion.csproj.GenerateResource.Cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Investigacion.exe
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Investigacion\Investigacion\obj\x86\Release\Investigacion.pdb

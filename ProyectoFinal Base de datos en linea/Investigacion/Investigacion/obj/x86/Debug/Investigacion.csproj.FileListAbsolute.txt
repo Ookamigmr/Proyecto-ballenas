@@ -1,0 +1,47 @@
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.csprojResolveAssemblyReference.cache
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.frm_Investigación.resources
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Properties.Resources.resources
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.csproj.GenerateResource.Cache
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\Investigacion.exe
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\Investigacion.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.exe
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.pdb
+C:\Users\Karen\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.exe
+C:\Users\Karen\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.AgregarPoblaciones.resources
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Poblaciones.resources
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.ExaminarPoblación.resources
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.BallenasDePoblacione.resources
+C:\Users\alma\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Agregar_Ballena.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.exe
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.pdb
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\Investigacion.exe
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\Investigacion.pdb
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\ConexiónSQL.dll
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\bin\Debug\ConexiónSQL.pdb
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.csprojResolveAssemblyReference.cache
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Agregar_Ballena.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.AgregarPoblaciones.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.BallenasDePoblacione.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.ExaminarPoblación.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Poblaciones.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.frm_Investigación.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Properties.Resources.resources
+C:\Users\aguilaclc\Google Drive\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.csproj.GenerateResource.Cache
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.exe
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.pdb
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\bin\Debug\Investigacion.exe
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\bin\Debug\Investigacion.pdb
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\bin\Debug\ConexiónSQL.dll
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\bin\Debug\ConexiónSQL.pdb
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.csprojResolveAssemblyReference.cache
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Agregar_Ballena.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.AgregarPoblaciones.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.BallenasDePoblacione.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.ExaminarPoblación.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Poblaciones.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.frm_Investigación.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Grupos.Properties.Resources.resources
+C:\Users\alma\Desktop\ProyectoFinal\Investigacion\Investigacion\obj\x86\Debug\Investigacion.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\alma\AppData\Local\Temporary Projects\asd\bin\Debug\asd.exe
+C:\Users\alma\AppData\Local\Temporary Projects\asd\bin\Debug\asd.pdb
+C:\Users\alma\AppData\Local\Temporary Projects\asd\obj\x86\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\alma\AppData\Local\Temporary Projects\asd\obj\x86\Debug\asd.Form1.resources
+C:\Users\alma\AppData\Local\Temporary Projects\asd\obj\x86\Debug\asd.Properties.Resources.resources
+C:\Users\alma\AppData\Local\Temporary Projects\asd\obj\x86\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\alma\AppData\Local\Temporary Projects\asd\obj\x86\Debug\asd.exe
+C:\Users\alma\AppData\Local\Temporary Projects\asd\obj\x86\Debug\asd.pdb

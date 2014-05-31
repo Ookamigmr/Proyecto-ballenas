@@ -1,0 +1,5 @@
+C:\Users\alma\Google Drive\ProyectoFinal\Conexión\Conexión\bin\Debug\Conexión.dll
+C:\Users\alma\Google Drive\ProyectoFinal\Conexión\Conexión\bin\Debug\Conexión.pdb
+C:\Users\alma\Google Drive\ProyectoFinal\Conexión\Conexión\obj\Debug\Conexión.csprojResolveAssemblyReference.cache
+C:\Users\alma\Google Drive\ProyectoFinal\Conexión\Conexión\obj\Debug\Conexión.dll
+C:\Users\alma\Google Drive\ProyectoFinal\Conexión\Conexión\obj\Debug\Conexión.pdb
