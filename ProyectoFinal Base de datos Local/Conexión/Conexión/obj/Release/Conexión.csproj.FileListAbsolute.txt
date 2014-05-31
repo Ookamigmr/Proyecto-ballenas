@@ -1,4 +1,0 @@
-C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Conexión\Conexión\bin\Release\Conexión.dll
-C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Conexión\Conexión\bin\Release\Conexión.pdb
-C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Conexión\Conexión\obj\Release\Conexión.dll
-C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\Conexión\Conexión\obj\Release\Conexión.pdb
