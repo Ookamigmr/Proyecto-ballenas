@@ -1,0 +1,5 @@
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\bin\Release\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\bin\Release\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\obj\Release\ConexiónSQL.csprojResolveAssemblyReference.cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\obj\Release\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\obj\Release\ConexiónSQL.pdb

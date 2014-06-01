@@ -43,9 +43,6 @@
     <Reference Include="AgregarUsuarios">
       <HintPath>..\..\AgregarUsuarios\AgregarUsuarios\bin\Debug\AgregarUsuarios.exe</HintPath>
     </Reference>
-    <Reference Include="Conexión">
-      <HintPath>..\..\ConexiónSQL\ConexiónSQL\bin\Debug\Conexión.dll</HintPath>
-    </Reference>
     <Reference Include="ConexiónSQL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll</HintPath>

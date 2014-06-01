@@ -17,7 +17,7 @@ namespace ConexiónSQL
         {
             conexion = new SqlConnection();
             string datos = @"Data Source= workstation id=RBALLENASDB.mssql.somee.com;packet size=4096;user id=Ookami_SQLLogin_1;pwd=eni365y9vu;data source=RBALLENASDB.mssql.somee.com;persist security info=False;initial catalog=RBALLENASDB";
-            //string datos = @"Data Source= ALMA-PC\SQLEXPRESS;Initial Catalog=ProyectoBallenas;Integrated Security=True";
+            //string datos = @"Data Source= localhost;Initial Catalog=RBALLENASBD;Integrated Security=True";
             try
             {
                 conexion.ConnectionString = datos;
@@ -31,7 +31,7 @@ namespace ConexiónSQL
         public static void Conectar(string baseDeDatos)
         {
             conexion = new SqlConnection();
-            conexion.ConnectionString = @"Data Source = ALMA-PC\SQLEXPRESS;Initial Catalog="+ baseDeDatos +";Integrated Security=True";
+            conexion.ConnectionString = @"Data Source = localhost;Initial Catalog="+ baseDeDatos +";Integrated Security=True";
             conexion.Open();
         }
         public static SqlDataReader Buscar(string Tabla, string Regstro, string campo)
@@ -57,16 +57,16 @@ namespace ConexiónSQL
             try
             {
                 string cadenaSQL = Delegados.insertar();
-                string valores = "('";
+                string valores = "(";
                 for (int j = 0; j < valor.Count; j++)
                 {
-                    valores = valores + valor[j] + "', '";
+                    valores = valores + valor[j] ;
                 }
-                char[] c;
-                c = valores.ToCharArray();
-                valores = "";
-                for (int j = 0; j < c.Length - 3; j++)
-                { valores = valores + c[j]; }
+                //char[] c;
+                //c = valores.ToCharArray();
+                //valores = "";
+                //for (int j = 0; j < c.Length - 3; j++)
+                //{ valores = valores + c[j]; }
 
                 valores = valores + ")";
 
@@ -87,7 +87,7 @@ namespace ConexiónSQL
 
                 return true;
             }
-                
+
             catch (Exception e)
             {
                 Exception a=e;

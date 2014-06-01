@@ -8,8 +8,13 @@ C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\bin\Debug\Conexió
 C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
 C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
 C:\Users\alma\Desktop\ProyectoFinal\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb
-C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll
-C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.pdb
-C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
-C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
-C:\Users\alma\Desktop\ProyectoFinal - Copy\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.pdb
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
+C:\Users\Angel Castro\Desktop\Proyecto ballenas\ProyectoFinal Base de datos Local\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.dll
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ConexiónSQL\ConexiónSQL\bin\Debug\ConexiónSQL.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.csprojResolveAssemblyReference.cache
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.dll
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ConexiónSQL\ConexiónSQL\obj\Debug\ConexiónSQL.pdb

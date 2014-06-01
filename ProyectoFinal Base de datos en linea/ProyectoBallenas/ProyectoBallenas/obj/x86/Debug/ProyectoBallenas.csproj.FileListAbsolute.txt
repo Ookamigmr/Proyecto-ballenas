@@ -60,3 +60,23 @@ C:\Users\alma\Desktop\ProyectoFinal - Copy\ProyectoBallenas\ProyectoBallenas\obj
 C:\Users\alma\Desktop\ProyectoFinal - Copy\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.csproj.GenerateResource.Cache
 C:\Users\alma\Desktop\ProyectoFinal - Copy\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.exe
 C:\Users\alma\Desktop\ProyectoFinal - Copy\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\ProyectoBallenas.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\ProyectoBallenas.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\AgregarEspecies.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\AgregarRegiones.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\AgregarUsuarios.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\ConexiónSQL.dll
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\Investigacion.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\Investigacion.vshost.exe
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\AgregarEspecies.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\AgregarRegiones.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\AgregarUsuarios.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\ConexiónSQL.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\bin\Debug\Investigacion.pdb
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.csprojResolveAssemblyReference.cache
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.Carga.resources
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.PantallaInicio.resources
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.Properties.Resources.resources
+C:\Users\Katthyren\Documents\GitHub\Proyecto-ballenas\ProyectoFinal Base de datos en linea\ProyectoBallenas\ProyectoBallenas\obj\x86\Debug\ProyectoBallenas.csproj.GenerateResource.Cache

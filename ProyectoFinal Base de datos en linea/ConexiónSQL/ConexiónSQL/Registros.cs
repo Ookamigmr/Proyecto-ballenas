@@ -15,9 +15,6 @@ namespace ConexiónSQL
             //id = 0;
             ultAt = ua;
 
-
-            
-
         }
 
     }
@@ -31,8 +28,8 @@ namespace ConexiónSQL
         string password, nombre, apellido, título;
         public string usuario;
         int especie, lugar;
-        bool activo;
-        public Usuario(string usr, string pwd, string nom, string apll)
+        bool activo,admin;
+        public Usuario(string usr, string pwd, string nom, string apll, bool ad)
             : base(DateTime.Today)
         {
             usuario = usr;
@@ -40,6 +37,7 @@ namespace ConexiónSQL
             nombre = nom;
             apellido = apll;
             activo = true;
+            admin = ad;
 
         }
         public Usuario(string usr, string nom, string apll, int zona, int ballena)
@@ -52,8 +50,9 @@ namespace ConexiónSQL
             apellido = apll;
             activo = true;
 
+
         }
-       public  Usuario(string usr, string pwd, string nom, string apll, string titulo)
+       public  Usuario(string usr, string pwd, string nom, string apll, string titulo, bool ad)
             : base(DateTime.Today)
         {
             usuario = usr;
@@ -62,6 +61,7 @@ namespace ConexiónSQL
             apellido = apll;
             título = titulo;
             activo = true;
+            admin = ad;
 
         }
 
@@ -78,11 +78,11 @@ namespace ConexiónSQL
         }
         public bool Agregar()
         {
-            Delegados.insertar = delegate { return "insert into TRB_USR (USR, PWD,TIT,NOM,APLL,ID_ESPECIE,ID_REGION, ACTIVO,ULT_ACT) values "; };
+            Delegados.insertar = delegate { return "insert into TRB_USR (USR, PWD,TIT,NOM,APLL,ID_ESPECIE,ID_REGION, ACTIVO,ULT_ACT,[ADMIN]) values "; };
             List<string> valores = new List<string>();
-            valores.Add(usuario ); valores.Add(password ); valores.Add(título); valores.Add(nombre );
-            valores.Add(apellido ); valores.Add(Especie.ToString()); valores.Add(Lugar.ToString() );
-            valores.Add("true"); valores.Add(base.ultAt .ToString());
+            valores.Add("'"+usuario+"',"); valores.Add("'"+password+"',"); valores.Add("'"+título+"',"); valores.Add("'"+nombre+"',");
+            valores.Add("'"+apellido+"',"); valores.Add(Especie.ToString()+","); valores.Add(Lugar.ToString()+",");
+            valores.Add("'true',"); valores.Add("getdate(),");valores.Add("'"+admin.ToString()+"'");;
 
 
             return ParaConectar.Insertar(valores);
@@ -143,19 +143,17 @@ namespace ConexiónSQL
        public bool Guardad()
         {
             List<string> valores = new List<string>();
-            Delegados.insertar = delegate { return "insert into TRB_ESPECIE (CLAVE, NCIENT, NCOMUN,CMORFOLOGIA,COLOR,TALLA,PESO,T_ALIMENTACION, VIDA_PROM, TIEMPO_GEST,ULT_ACT ) values "; };
             if (string.IsNullOrEmpty(descripcionMorfología))
             {
+                Delegados.insertar = delegate { return "insert into TRB_ESPECIE (CLAVE, NCIENT, NCOMUN,COLOR,TALLA,PESO,T_ALIMENTACION, VIDA_PROM, TIEMPO_GEST,ULT_ACT ) values "; };
 
-
-                valores.Add(clave); valores.Add(nombreCientifico); valores.Add(nombreComun); valores.Add("No disponible"); valores.Add(color);
+                valores.Add(clave); valores.Add(nombreCientifico); valores.Add(nombreComun); valores.Add(color);
                 valores.Add(tallaPromedio.ToString()); valores.Add(pesoPromedio.ToString()); valores.Add(tipoAlimentacion);
                 valores.Add(añosPromedio_Vida.ToString()); valores.Add(mesesGestación.ToString()); valores.Add(base.ultAt.ToString());
 
             }
-            else
             {
-                
+                Delegados.insertar = delegate { return "insert into TRB_ESPECIE (CLAVE, NCIENT, NCOMUN, CMORFOLOGIA,COLOR,TALLA,PESO,T_ALIMENTACION, VIDA_PROM, TIEMPO_GEST,ULT_ACT ) values "; };
 
                 valores.Add(clave); valores.Add(nombreCientifico); valores.Add(nombreComun); valores.Add(descripcionMorfología); valores.Add(color);
                 valores.Add(tallaPromedio.ToString()); valores.Add(pesoPromedio.ToString()); valores.Add(tipoAlimentacion);
